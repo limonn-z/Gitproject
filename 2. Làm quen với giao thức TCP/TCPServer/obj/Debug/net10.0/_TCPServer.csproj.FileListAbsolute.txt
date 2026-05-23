@@ -1,0 +1,14 @@
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\bin\Debug\net10.0\_TCPServer.exe
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\bin\Debug\net10.0\_TCPServer.deps.json
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\bin\Debug\net10.0\_TCPServer.runtimeconfig.json
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\bin\Debug\net10.0\_TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\bin\Debug\net10.0\_TCPServer.pdb
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.AssemblyInfoInputs.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.AssemblyInfo.cs
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.csproj.CoreCompileInputs.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\refint\_TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.pdb
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\_TCPServer.genruntimeconfig.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPServer\obj\Debug\net10.0\ref\_TCPServer.dll

@@ -1,0 +1,14 @@
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\bin\Debug\net10.0\_TCPClient.exe
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\bin\Debug\net10.0\_TCPClient.deps.json
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\bin\Debug\net10.0\_TCPClient.runtimeconfig.json
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\bin\Debug\net10.0\_TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\bin\Debug\net10.0\_TCPClient.pdb
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.AssemblyInfoInputs.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.AssemblyInfo.cs
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.csproj.CoreCompileInputs.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\refint\_TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.pdb
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\_TCPClient.genruntimeconfig.cache
+D:\__Limonz\Csharp\Network Programming\2. Làm quen với giao thức TCP\TCPClient\obj\Debug\net10.0\ref\_TCPClient.dll

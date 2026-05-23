@@ -1,0 +1,14 @@
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\bin\Debug\net10.0\TCPServer.exe
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\bin\Debug\net10.0\TCPServer.deps.json
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\bin\Debug\net10.0\TCPServer.runtimeconfig.json
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\bin\Debug\net10.0\TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\bin\Debug\net10.0\TCPServer.pdb
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.AssemblyInfoInputs.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.AssemblyInfo.cs
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\refint\TCPServer.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.pdb
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\TCPServer.genruntimeconfig.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPServer\obj\Debug\net10.0\ref\TCPServer.dll

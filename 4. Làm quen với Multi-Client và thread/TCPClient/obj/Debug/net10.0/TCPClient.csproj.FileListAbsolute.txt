@@ -1,0 +1,14 @@
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\bin\Debug\net10.0\TCPClient.exe
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\bin\Debug\net10.0\TCPClient.deps.json
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\bin\Debug\net10.0\TCPClient.runtimeconfig.json
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\bin\Debug\net10.0\TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\bin\Debug\net10.0\TCPClient.pdb
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.AssemblyInfoInputs.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.AssemblyInfo.cs
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.csproj.CoreCompileInputs.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\refint\TCPClient.dll
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.pdb
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\TCPClient.genruntimeconfig.cache
+D:\__Limonz\Csharp\Network Programming\4. Làm quen với Multi-Client và thread\TCPClient\obj\Debug\net10.0\ref\TCPClient.dll
